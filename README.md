@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Scrambled-Ashoka
-=======
 # Ashoka - Scrambled AI
 
 Repository ini berisi eksperimen klasifikasi citra untuk dataset Ashoka dengan beberapa skenario hold-out, termasuk model hybrid CNN + C-Swin, ViT dengan multi-patch selection dan Dilated SE-DenseNet.
@@ -101,5 +98,4 @@ Agar hasil lebih konsisten:
 - Jangan menghapus atau mengubah blok seed di notebook.
 - Jalankan notebook dari direktori repo yang sama.
 - Jika ingin membandingkan hasil antar run, gunakan `--run-index` atau simpan hasil dari 
-  tiap run secara terpisah.
->>>>>>> 7656483 (Initial commit)
+  tiap run secara terpisah
