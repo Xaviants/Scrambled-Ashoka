@@ -1,4 +1,4 @@
-# Ashoka - Scrambled AI
+# ASHOKA - SCRAMBLED AI
 
 Repository ini berisi eksperimen klasifikasi citra untuk dataset Ashoka dengan beberapa skenario hold-out, termasuk model hybrid CNN + C-Swin, ViT dengan multi-patch selection dan Dilated SE-DenseNet.
 
