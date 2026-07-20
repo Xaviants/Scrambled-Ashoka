@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Jupyter / notebooks outputs
+.ipynb_checkpoints/
+results/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model checkpoints (optional)
+*.pth
