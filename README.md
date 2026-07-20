@@ -15,9 +15,9 @@ Repository ini berisi eksperimen klasifikasi citra untuk dataset Ashoka dengan b
 
 - `Ashoka_With_Hybrid_CNN_and_C_Swin.ipynb` — eksperimen hybrid CNN + C-Swin
 - `DilatedSEDenseNet_WithHoldOut.ipynb` — eksperimen Dilated SE-DenseNet
-- `percobaan 3 hold out 224 patch 16 supis.ipynb` — hold-out patch 16
-- `percobaan 3-2 hold out 224 patch 32 supis.ipynb` — hold-out patch 32
-- `percobaan 3-3 hold out 224 patch 8 supis.ipynb` — hold-out patch 8
+- `holdout_patch16.ipynb` — hold-out patch 16
+- `holdout_patch32.ipynb` — hold-out patch 32
+- `holdout_patch8.ipynb` — hold-out patch 8
 - `Dilated_SEDenseNet_model.py` — implementasi model Dilated SE-DenseNet
 - `run_all_notebooks.py` — executor notebook
 - `results/` — hasil run

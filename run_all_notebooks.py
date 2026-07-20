@@ -173,9 +173,9 @@ if __name__ == "__main__":
     notebooks = [
         base_dir / "Ashoka_With_Hybrid_CNN_and_C_Swin.ipynb",
         base_dir / "DilatedSEDenseNet_WithHoldOut.ipynb",
-        base_dir / "percobaan 3 hold out 224 patch 16 supis.ipynb",
-        base_dir / "percobaan 3-2 hold out 224 patch 32 supis.ipynb",
-        base_dir / "percobaan 3-3 hold out 224 patch 8 supis.ipynb",
+        base_dir / "holdout_patch16.ipynb",
+        base_dir / "holdout_patch32.ipynb",
+        base_dir / "holdout_patch8.ipynb",
     ]
     output_root = base_dir / args.output_dir
     output_root.mkdir(parents=True, exist_ok=True)
